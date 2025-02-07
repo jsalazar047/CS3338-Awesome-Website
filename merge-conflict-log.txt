@@ -1,0 +1,63 @@
+commit 901e26490d0810022259490140cf9c8ee1c9d92c
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Fri Feb 7 12:57:23 2025 -0800
+
+    Changed favorite food
+
+commit 23414a3bd1c0dc228973bcb2fea721a407912c3c
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 18:03:42 2025 -0800
+
+    Added repo location
+
+commit b617bc5ccd83236d4e057cca5505a28c61d336ac
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 18:02:23 2025 -0800
+
+    Added git log
+
+commit d20f2135513a82a70198a9ea8c845089e2cba044
+Merge: 82d8602 6d42df6
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 17:48:59 2025 -0800
+
+    Resolved merge conflict
+
+commit 6d42df617c88371897205161e32b6ed25dfe5394
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 17:37:18 2025 -0800
+
+    Added favorite video game
+
+commit 82d86020329aad8b0edb80a0bd30d0249a151bb9
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 17:30:13 2025 -0800
+
+    Added favorite food
+
+commit 4ed8a35d6d7428cd7e1d8541bf0467a3af7267f7
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 17:14:16 2025 -0800
+
+    Commit my README
+
+commit 1332d51a8085a8c3dc9bc70d29669c8942a0b0d7
+Merge: 1d2bfc0 a09c6b2
+Author: jsalazar047 <74085909+jsalazar047@users.noreply.github.com>
+Date:   Tue Feb 4 16:46:44 2025 -0800
+
+    Merge pull request #1 from jsalazar047/info-fill
+    
+    Updated Blanks
+
+commit a09c6b2bafc0a4164127a8251035902e3df128a3
+Author: jsalazar047 <jasonsalazar101@gmail.com>
+Date:   Tue Feb 4 16:34:15 2025 -0800
+
+    Updated Blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
